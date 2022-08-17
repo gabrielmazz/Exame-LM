@@ -39,6 +39,8 @@ $$
         - int fclose(FILE *stream)
     ```
 
+- Deve tambem printar dentro de um arquivo externo, usando 'w' para usado para recriar o arquivo toda vez que uma nova execução é feita
+
 ## Execução:
 
 - Pode se usar o makefile para compilar e executar
