@@ -11,6 +11,7 @@ O programa deve criar dois vetores, aonde recebera os valores dos primeiros pont
 
 - Os valores de entrada, deve ser valores ponto-flutuante de precisão dupla
 - Usando uma função chamada dis3Dlm com passagem de parametro por ponteiro
+
     ```c
     dis3Dlm(double* p1, double* p2)
     ```
@@ -22,6 +23,7 @@ $$
 ## Restrições:
 
 - Deve se usar funções do C dentro do programa
+
     ```c
     extern printf
         - int printf(const char *format, ...);
