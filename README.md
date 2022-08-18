@@ -1,5 +1,5 @@
 # Exame de Linguagem de Montagem (LM)
->Colaboradores: Gabriel Mazzuco ([Github Profile](https://github.com/gabrielmazz))
+>Colaborador: Gabriel Mazzuco ([Github Profile](https://github.com/gabrielmazz))
 
 >Professor: Edmar Bellorini
 
